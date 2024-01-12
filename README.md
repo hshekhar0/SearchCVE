@@ -1,2 +1,2 @@
 # SearchCVE
-Search Commom Vulnerabilities &amp; Exposures
+Script to search Commom Vulnerabilities &amp; Exposures
